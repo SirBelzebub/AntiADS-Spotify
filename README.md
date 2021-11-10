@@ -1,4 +1,4 @@
-# AntiADS-Spotify
+# AntiADSpoty
 Anti ADS Spotify on all update!
 Last tested version: 1.1.71.560.gc21c3367
 
