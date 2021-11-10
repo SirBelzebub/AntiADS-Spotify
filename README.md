@@ -1,5 +1,6 @@
 # AntiADS-Spotify
 Anti ADS Spotify on all update!
+Last tested version: 1.1.71.560.gc21c3367
 
 #### Important checks before installing:
 0. Update Windows, update Spotify and update AntiADS-Spotify
