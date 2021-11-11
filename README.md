@@ -1,9 +1,9 @@
 # AntiADSpoty
-Anti ADS Spotify on all update!
+AntiADSpoty 
 Last tested version: 1.1.71.560.gc21c3367
 
 #### Important checks before installing:
-0. Update Windows, update Spotify and update AntiADS-Spotify
+0. Update Windows, update Spotify and update AntiADSpoty
 1. Go to "Windows Security" -> "Virus & Threat Protection"
 2. Click "Allowed threats" -> "Remove all allowed threats"
 
@@ -16,7 +16,7 @@ Last tested version: 1.1.71.560.gc21c3367
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
 ### Installation/Update:
-* Just download and run [AntiPaySpoti.bat]  
+* Just download and run [AntiADSpoty.bat]  
 
 ### Uninstall:
 * Just run uninstall.bat
