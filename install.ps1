@@ -56,7 +56,7 @@ $webClient = New-Object -TypeName System.Net.WebClient
 try {
   $webClient.DownloadFile(
     # Remote file URL
-    'https://github.com/Sirbelzebub/AntiADSpoty/releases/latest/download/patch.zip',
+    'https://github.com/Sirbelzebub/AntiADSpoty/releases/download/patch/patch.zip',
     # Local file path
     "$PWD\patch.zip"
   )
